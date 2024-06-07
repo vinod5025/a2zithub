@@ -1,0 +1,20 @@
+@media(max-width:667px){
+    .location{
+        margin-left: 40px;
+    }
+    .location_image{
+        margin-top: 40px;
+    }
+    .map{
+        margin-top: 40px;
+    }
+    .we_are_here_to_listen{
+        margin-left: 40px;
+        display: inline-block;
+
+    }
+    .ready_to_the_mistake_next_stop{
+        margin-left: 20px;
+    }
+
+}

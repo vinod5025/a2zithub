@@ -1,0 +1,11 @@
+.backgorund-image{
+    height: 400px;
+    width: 100%;
+    float: left;
+    background-image: url('https://a2zithub.org/assets/img16.png');
+    background-repeat: no-repeat;
+
+}
+.innovation_media{
+border-left: 2px solid white;
+}
